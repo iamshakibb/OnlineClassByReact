@@ -18,9 +18,9 @@ const Navbar = (props) => {
 
           {/* mobile icon / shopping cart and handbarger icon */}
           <div className="mobile_btn">
-            <span className="shopping_cart mobile">
+            <span className="shopping_cart mobile shopping_bar">
               <Link className="link" to="cart_section" smooth={true} duration={2000}>
-                <FontAwesomeIcon icon={faShoppingBag} className="icon shopping_bar" />
+                <FontAwesomeIcon icon={faShoppingBag} className="icon" />
                 <span>{props.cart.length}</span>
               </Link>
             </span>
@@ -47,7 +47,7 @@ const Navbar = (props) => {
           </div>
           {/* shopping cart icon */}
           <span className="shopping_cart desktop">
-            <Link className="link" to="cart_section" smooth={true} duration={2000}>
+            <Link className="link" to="courses" smooth={true} duration={2000}>
               <FontAwesomeIcon icon={faShoppingBag} className="icon shopping_bag" />
               <span>{props.cart.length}</span>
             </Link>
