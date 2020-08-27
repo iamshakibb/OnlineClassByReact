@@ -1,0 +1,36 @@
+/* Global css */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+body {
+  font-family: "Dosis", sans-serif;
+}
+/* Global css */
+
+/* common css */
+
+.mobile {
+  display: none;
+}
+
+#courses {
+  padding-top: 100px;
+}
+
+.link {
+  cursor: pointer;
+}
+/* common css */

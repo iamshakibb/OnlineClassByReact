@@ -1,0 +1,136 @@
+/* course item box */
+.course_item {
+  width: 100%;
+  word-wrap: break-word;
+  height: auto;
+  margin-bottom: 30px;
+  border: 2px solid lightgray;
+  padding: 15px;
+  border-radius: 10px;
+  position: relative;
+  z-index: 999;
+  position: relative;
+  transition: 700ms ease;
+}
+
+.course_item:hover {
+  transform: scale(1);
+  box-shadow: 10px 11px 13px 6px #e5e5e5;
+}
+/* course item box */
+
+/* course img */
+.course_img img {
+  width: 90%;
+}
+
+/* coures info style */
+.course_info h5 {
+  margin-bottom: 15px;
+}
+
+.course_name,
+.creator,
+.course_discription,
+.course_date,
+.price {
+  width: 100%;
+  height: 10px;
+  padding-bottom: 30px;
+  padding-left: 40px;
+}
+
+.course_name {
+  padding-top: 10px;
+  font-weight: 600;
+}
+
+.course_name a {
+  color: #000;
+}
+
+.course_item:hover .course_name a {
+  color: salmon;
+}
+
+.creator {
+  font-weight: 700;
+  margin-top: 40px;
+}
+
+.course_date {
+  margin-top: 50px;
+}
+
+.price {
+  font-size: 1.5em;
+  color: salmon;
+  font-weight: 600;
+}
+/* coures info style */
+
+/* enroll btn style */
+.enroll_btn {
+  position: absolute;
+  right: 40px;
+  bottom: 25px;
+}
+
+/*Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  .course_item {
+    height: 490px;
+  }
+  .creator {
+    margin-top: 40px;
+  }
+  .course_date {
+    margin-top: 70px;
+  }
+  .enroll_btn {
+    bottom: 25px;
+  }
+}
+
+@media (min-width: 390px) and (max-width: 575px) {
+  .course_item {
+    height: 530px;
+  }
+  .course_item {
+    height: 500px;
+  }
+  .enroll_btn {
+    bottom: 15px;
+  }
+}
+
+/*Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .course_item {
+    height: 530px;
+  }
+  .creator {
+    margin-top: 30px;
+  }
+
+  .enroll_btn {
+    bottom: 30px;
+  }
+}
+
+/*mediam devices (desktops, 992px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .enroll_btn {
+    bottom: 30px;
+  }
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .course_date {
+    margin-top: 60px;
+  }
+  .enroll_btn {
+    bottom: 50px;
+  }
+}

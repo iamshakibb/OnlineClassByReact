@@ -1,0 +1,105 @@
+/* nav bar backgound color */
+.nav_banner {
+  background-color: #000;
+}
+
+.navbar {
+  background-color: #000;
+}
+
+.navbar-brand span {
+  margin-left: 20px;
+}
+
+/* nav bar logo resizing */
+.logo {
+  width: 40px;
+  margin-left: 65px;
+}
+/* icon color */
+.icon {
+  color: #fff;
+  font-size: 1.3em;
+}
+
+.navbar ul li {
+  padding-right: 30px;
+}
+
+/* mobile icon setting */
+.mobile {
+  display: none;
+}
+
+.mobile_btn {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+}
+.faBars {
+  padding-left: 30px;
+}
+
+.shopping_bag {
+  margin-right: 65px;
+}
+/* mobile icon setting */
+
+/* shopping cart counter */
+.shopping_cart {
+  position: relative;
+}
+
+.shopping_cart span {
+  font-size: 15px;
+  position: absolute;
+  left: 23%;
+  top: 8%;
+  color: white;
+  background: red;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  text-align: center;
+}
+/* shopping cart counter */
+
+/*Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  .mobile {
+    display: inline-block;
+  }
+  .desktop {
+    display: none;
+  }
+  /* nav bar logo */
+  .logo {
+    margin-left: 10px;
+  }
+
+  /* shopping cart count */
+  .shopping_cart span {
+    left: 100%;
+    top: 15%;
+  }
+}
+
+/*Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .mobile {
+    display: inline-block;
+  }
+  .desktop {
+    display: none;
+  }
+  /* nav bar logo */
+  .logo {
+    margin-left: 10px;
+  }
+  /* shopping cart count */
+  .shopping_cart span {
+    left: 100%;
+    top: 15%;
+  }
+}

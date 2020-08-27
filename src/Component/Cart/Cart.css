@@ -1,0 +1,13 @@
+.cart {
+  margin-top: 150px;
+  border: 2px solid salmon;
+  padding: 20px;
+}
+
+.cart p:nth-child(2) {
+  padding-left: 30px;
+}
+
+.total {
+  color: salmon;
+}

@@ -1,0 +1,278 @@
+[
+  {
+    "id": 1,
+    "name": "React - The Complete Guide (incl Hooks, React Router, Redux).",
+    "description": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!",
+    "creator": "Maximilian Schwarzmüller.",
+    "uploadDate": "7/2020",
+    "totalEnroll": "293,611",
+    "price": 9.99,
+    "img": "https://img-a.udemycdn.com/course/240x135/1362070_b9a1_2.jpg",
+    "url": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/"
+  },
+
+  {
+    "id": 2,
+    "name": "Advanced CSS and Sass: Flexbox, Grid, Animations and More!",
+    "description": "The most advanced and modern CSS course on the internet: master flexbox, CSS Grid, responsive design, and so much more.",
+    "creator": "Jonas Schmedtmann.",
+    "uploadDate": "12/2019",
+    "totalEnroll": "107,109",
+    "price": 10.99,
+    "img": "https://img-a.udemycdn.com/course/240x135/1026604_790b_2.jpg",
+    "url": "https://www.udemy.com/course/advanced-css-and-sass/"
+  },
+  {
+    "id": 3,
+    "name": "Python for Data Science and Machine Learning Bootcamp.",
+    "description": "Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!",
+    "creator": "Jose Portilla.",
+    "uploadDate": "5/2020",
+    "totalEnroll": "378,843",
+    "price": 15.0,
+    "img": "https://img-a.udemycdn.com/course/240x135/903744_8eb2.jpg",
+    "url": "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/"
+  },
+  {
+    "id": 4,
+    "name": "Dynamic Programming Ruby, Coding Interviews and Applications.",
+    "description": "Become a better developer by learning how to build efficient Dynamic Programming algorithms.",
+    "creator": "James Cutajar.",
+    "uploadDate": "12/2020",
+    "totalEnroll": "3,780",
+    "price": 11.99,
+    "img": "https://img-a.udemycdn.com/course/240x135/2552513_6fd4_2.jpg",
+    "url": "https://www.udemy.com/course/dynamic-programming-ruby/"
+  },
+  {
+    "id": 5,
+    "name": "C Programming For Beginners - Master the C Language.",
+    "description": "C Programming will increase career options. Become a better dev in other languages by learning C. Pointers explained.",
+    "creator": "Jason Fedin.",
+    "uploadDate": "9/2020",
+    "totalEnroll": "58,682",
+    "price": 11.99,
+    "img": "https://img-a.udemycdn.com/course/240x135/1467808_f8c0.jpg",
+    "url": "https://www.udemy.com/course/c-programming-for-beginners-/"
+  },
+  {
+    "id": 6,
+    "name": "The Ultimate Guide to Game Development with Unity 2019.",
+    "description": "Created in partnership with Unity Technologies: learn C# by developing 2D & 3D games with this comprehensive guide.",
+    "creator": "Jonathan Weinberger.",
+    "uploadDate": "6/2019",
+    "totalEnroll": "59,383",
+    "price": 12.99,
+    "img": "https://img-a.udemycdn.com/course/240x135/1328572_b05d_4.jpg",
+    "url": "https://www.udemy.com/course/the-ultimate-guide-to-game-development-with-unity/"
+  },
+  {
+    "id": 7,
+    "name": "Ionic - Build iOS, Android & Web Apps with Ionic & Angular .",
+    "description": "Build Native iOS & Android as well as Progressive Web Apps with Angular, Capacitor and the Ionic Framework (Ionic 4+).",
+    "creator": "Maximilian Schwarzmüller.",
+    "uploadDate": "8/2020",
+    "totalEnroll": "53,092",
+    "price": 9.99,
+    "img": "https://img-a.udemycdn.com/course/240x135/1070124_3a0f_4.jpg",
+    "url": "https://www.udemy.com/course/ionic-2-the-practical-guide-to-building-ios-android-apps/"
+  },
+  {
+    "id": 8,
+    "name": "Spring Framework 5: Beginner to Guru.",
+    "description": "Spring Framework 5: Learn Spring Framework 5, Spring Boot 2, Spring MVC, Spring Data JPA, Spring Data MongoDB, Hibernate.",
+    "creator": "John Thompson.",
+    "uploadDate": "7/2020",
+    "totalEnroll": "56,456",
+    "price": 12.99,
+    "img": "https://img-a.udemycdn.com/course/240x135/1455016_0b2d_2.jpg",
+    "url": "https://www.udemy.com/course/spring-framework-5-beginner-to-guru/"
+  },
+  {
+    "id": 9,
+    "name": "JavaScript: Understanding the Weird Parts.",
+    "description": "An advanced JavaScript course for everyone! Scope, closures, prototypes, 'this', build your own framework, and more.",
+    "creator": "Anthony Alicea.",
+    "uploadDate": "7/2020",
+    "totalEnroll": "150,538",
+    "price": 9.99,
+    "img": "https://img-a.udemycdn.com/course/240x135/364426_2991_5.jpg",
+    "url": "https://www.udemy.com/course/understand-javascript/"
+  },
+  {
+    "id": 10,
+    "name": "JavaScript Basics for Beginners.",
+    "description": "JavaScript - Master the Fundamentals in 6 Hours.",
+    "creator": "Mosh Hamedani.",
+    "uploadDate": "6/2018",
+    "totalEnroll": "24,838",
+    "price": 9.99,
+    "img": "https://img-a.udemycdn.com/course/240x135/1743420_0062.jpg",
+    "url": "https://www.udemy.com/course/javascript-basics-for-beginners/"
+  },
+  {
+    "id": 11,
+    "name": "Modern JavaScript (from Novice to Ninja).",
+    "description": "Create awesome JavaScript driven web apps with modern JavaScript from the very beginning right through to ninja-level.",
+    "creator": "The Net Ninja (Shaun Pelling).",
+    "uploadDate": "7/2020",
+    "totalEnroll": "14,244",
+    "price": 9.99,
+    "img": "https://img-a.udemycdn.com/course/240x135/2201164_831a.jpg",
+    "url": "https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/"
+  },
+  {
+    "id": 12,
+    "name": "Build a Real-world App with ASP.NET Core and Angular 2 (4+).",
+    "description": "Build a full-stack web app with ASP.NET Core, Entity Framework Core and Angular 2 (Angular 4+).",
+    "creator": "Mosh Hamedani.",
+    "uploadDate": "4/2018",
+    "totalEnroll": "25,486",
+    "price": 10.99,
+    "img": "https://img-a.udemycdn.com/course/240x135/1144726_45a2_2.jpg",
+    "url": "https://www.udemy.com/course/aspnet-core-angular/"
+  },
+  {
+    "id": 13,
+    "name": "NgRx (with NgRx Data) - The Complete Guide (FREE E-Book).",
+    "description": "Learn the modern NgRx Ecosystem, including NgRx Data, Store, Effects, Router Store, NgRx Entity, and DevTools.",
+    "creator": "Angular University",
+    "uploadDate": "8/2020",
+    "totalEnroll": "8,898",
+    "price": 10.99,
+    "img": "https://img-a.udemycdn.com/course/240x135/1673770_fda4_3.jpg",
+    "url": "https://www.udemy.com/course/ngrx-course/"
+  },
+  {
+    "id": 14,
+    "name": "AWS Certified Solutions Architect - Associate 2020.",
+    "description": "Want to pass the AWS Solutions Architect - Associate Exam? Want to become Amazon Web Services Certified? Do this course!",
+    "creator": "Ryan Kroonenburg.",
+    "uploadDate": "7/2020",
+    "totalEnroll": "561,526",
+    "price": 9.99,
+    "img": "https://img-a.udemycdn.com/course/240x135/362328_91f3_10.jpg",
+    "url": "https://www.udemy.com/course/aws-certified-solutions-architect-associate/"
+  },
+  {
+    "id": 15,
+    "name": "The Complete Cyber Security Course : Hackers Exposed!",
+    "description": "Volume 1 : Become a Cyber Security Specialist, Learn How to Stop Hackers, Prevent Hacking, Learn IT Security & INFOSEC.",
+    "creator": "Nathan House",
+    "uploadDate": "8/2020",
+    "totalEnroll": "163,471",
+    "price": 13.99,
+    "img": "https://img-a.udemycdn.com/course/240x135/614772_233b_9.jpg",
+    "url": "https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1/"
+  },
+  {
+    "id": 16,
+    "name": "Arduino Step by Step: Getting Started.",
+    "description": "The original comprehensive course designed for new Arduino Makers.",
+    "creator": "Dr. Peter Dalmaris",
+    "uploadDate": "5/2020",
+    "totalEnroll": "24,577",
+    "price": 9.99,
+    "img": "https://img-a.udemycdn.com/course/240x135/982708_2483.jpg",
+    "url": "https://www.udemy.com/course/arduino-sbs-17gs/"
+  },
+  {
+    "id": 17,
+    "name": "Microsoft Power BI - Up & Running With Power BI Desktop.",
+    "description": "Transform, analyze & visualize data with Microsoft Power BI Desktop: hands-on demos, projects & 1-on-1 Power BI support.",
+    "creator": "Chris Dutton",
+    "uploadDate": "6/2020",
+    "totalEnroll": "84,786",
+    "price": 14.99,
+    "img": "https://img-a.udemycdn.com/course/240x135/1570206_26c6_4.jpg",
+    "url": "https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/"
+  },
+  {
+    "id": 18,
+    "name": "PMP Exam Prep Seminar - PMBOK Guide 6.",
+    "description": "PMP Exam Prep Seminar - Earn 35 PDUs by completing the entire PMP course.",
+    "creator": "Joseph Phillips",
+    "uploadDate": "7/2020",
+    "totalEnroll": "152,582",
+    "price": 9.99,
+    "img": "https://img-a.udemycdn.com/course/240x135/1361790_2eb7.jpg",
+    "url": "https://www.udemy.com/course/pmp-pmbok6-35-pdus/"
+  },
+  {
+    "id": 19,
+    "name": "The Ultimate Drawing Course - Beginner to Advanced.",
+    "description": "Learn the #1 most important building block of all art.",
+    "creator": "Jaysen Batchelor",
+    "uploadDate": "1/2019",
+    "totalEnroll": "398,072",
+    "price": 9.99,
+    "img": "https://img-a.udemycdn.com/course/240x135/874012_c7f2_3.jpg",
+    "url": "https://www.udemy.com/course/the-ultimate-drawing-course-beginner-to-advanced/"
+  },
+  {
+    "id": 20,
+    "name": "Complete Blender Creator: Learn 3D Modelling for Beginners.",
+    "description": "Use Blender to Create Beautiful 3D models for Video Games, 3D Printing & More. Beginners Level Course.",
+    "creator": "Rick Davidson",
+    "uploadDate": "8/2020",
+    "totalEnroll": "201,166",
+    "price": 9.99,
+    "img": "https://img-a.udemycdn.com/course/240x135/438522_500f_6.jpg",
+    "url": "https://www.udemy.com/course/blendertutorial/"
+  },
+  {
+    "id": 21,
+    "name": "Illustrator CC 2020 MasterClass.",
+    "description": "Master Adobe Illustrator CC with this in-depth training for all levels.",
+    "creator": "Martin Perhiniak",
+    "uploadDate": "3/2020",
+    "totalEnroll": "115,039",
+    "price": 9.99,
+    "img": "https://img-a.udemycdn.com/course/240x135/1197206_7201_3.jpg",
+    "url": "https://www.udemy.com/course/illustrator-cc-masterclass/"
+  },
+  {
+    "id": 22,
+    "name": "Ultimate Photoshop Training: From Beginner to Pro",
+    "description": "Master Photoshop CC 2020 without any previous knowledge with this easy-to-follow course",
+    "creator": "Cristian Doru Barin",
+    "uploadDate": "7/2020",
+    "totalEnroll": "119,110",
+    "price": 10.99,
+    "img": "https://img-a.udemycdn.com/course/240x135/1046722_cbd7_2.jpg",
+    "url": "https://www.udemy.com/course/ultimate-photoshop-training-from-beginner-to-pro/"
+  },
+  {
+    "id": 23,
+    "name": "Sketch from A to Z (2020): Become an app designer.",
+    "description": "Finally a comprehensive guide to using Sketch for designing mobile applications. Learn to design an app from A to Z.",
+    "creator": "Joseph Angelo Todaro",
+    "uploadDate": "8/2020",
+    "totalEnroll": "26,590",
+    "price": 10.99,
+    "img": "https://img-a.udemycdn.com/course/240x135/371074_6c73_2.jpg",
+    "url": "https://www.udemy.com/course/learnsketch3/"
+  },
+  {
+    "id": 24,
+    "name": "The Ultimate Digital Painting Course - Beginner to Advanced.",
+    "description": "Everything from drawing fundamentals to professional painting techniques.",
+    "creator": "Jaysen Batchelor",
+    "uploadDate": "3/2020",
+    "totalEnroll": "37,318",
+    "price": 9.99,
+    "img": "https://img-a.udemycdn.com/course/240x135/869812_1fc8_3.jpg",
+    "url": "https://www.udemy.com/course/the-ultimate-digital-painting-course-beginner-to-advanced/"
+  },
+  {
+    "id": 25,
+    "name": "Maya for Beginners: Complete Guide to 3D Animation in Maya.",
+    "description": "Learn everything you need for 3D animation in Autodesk Maya: Modeling, Texturing, Lighting, Rigging, Animation, Dynamics.",
+    "creator": "Lucas Ridley",
+    "uploadDate": "5/2020",
+    "totalEnroll": "17,464",
+    "price": 9.99,
+    "img": "https://img-a.udemycdn.com/course/240x135/1556128_9d8f_3.jpg",
+    "url": "https://www.udemy.com/course/autodesk-maya-3d-animation-course/"
+  }
+]

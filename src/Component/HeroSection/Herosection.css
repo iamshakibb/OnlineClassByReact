@@ -1,0 +1,59 @@
+/* hero banner style */
+.hero_banner {
+  background-image: url(../../images/hero_banner.jpg);
+  background-color: rgba(0, 0, 0, 0.63);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+
+/* hero content style */
+.hero_content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  color: #fff;
+}
+
+/* down arrow style */
+.down_arrow {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translateX(-80%) translateY(-50%);
+  font-size: 3em;
+  animation: arrowmove 1s infinite;
+}
+
+/* down arrow animation */
+@keyframes arrowmove {
+  from {
+    top: 80%;
+  }
+  to {
+    top: 82%;
+  }
+}
+/* down arrow animation */
+
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  .hero_content h1 {
+    font-size: 1.7em;
+  }
+  .hero_content h2 {
+    font-size: 1.4em;
+  }
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .hero_content h1 {
+    font-size: 1.7em;
+  }
+  .hero_content h2 {
+    font-size: 1.4em;
+  }
+}
